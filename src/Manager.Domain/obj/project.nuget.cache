@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LPrShmuLk0DO+cygoo9sv46Ml7w0Xlsd/fVvRTIix5DwPOSF7nQg2Do3OAOVJauY8oLqOvp4f9YsSCe0Rl8Yug==",
+  "dgSpecHash": "BEaQY2NwnWU1SWA3YsTY4XZaklqgpRlNX5LQIYTzJlcCnlnL/Z/vX8ho0jeolITvGtu2p3VpdPPX80XukvyVoQ==",
   "success": true,
   "projectFilePath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/vinicius/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512"
+  ],
   "logs": []
 }

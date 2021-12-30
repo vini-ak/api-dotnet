@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj": {}
+    "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj": {}
   },
   "projects": {
-    "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj": {
+    "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj",
-        "projectName": "Manager.Domain",
-        "projectPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj",
+        "projectUniqueName": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj",
+        "projectName": "Manager.Core",
+        "projectPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj",
         "packagesPath": "/home/vinicius/.nuget/packages/",
-        "outputPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/obj/",
+        "outputPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vinicius/.nuget/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "fluentvalidation": {
-              "target": "Package",
-              "version": "[10.3.6, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
