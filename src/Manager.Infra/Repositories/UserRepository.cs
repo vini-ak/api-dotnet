@@ -1,9 +1,10 @@
 using Manager.Domain.Entities;
 using Manager.Infra.Interfaces;
 using Manager.Infra.Context;
-
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
 
 namespace Manager.Infra.Repositories
 {
@@ -16,7 +17,7 @@ namespace Manager.Infra.Repositories
             _context = context;
         }
 
-        public async Task<UserRepository> GetByEmail(string email)
+        public async Task<User> GetByEmail(string email)
         {
             var user = await _context.Users
                                     .Where(
