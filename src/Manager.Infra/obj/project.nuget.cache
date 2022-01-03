@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gFw9Hs+6mr3SuwVXXyCn2AFN3XomH759JNS/0cFDSrRW5V7Ui+/4IesunQn2vTpD2wj36vXDtQzr/c1skR4fAw==",
+  "dgSpecHash": "r+VngzogQSah3a2gbFV+1VtMDrwp2Um/NDLdZMR1Zsxk0rWFmhd07pO3hECyK4k4n86OuK5B9krk9jwerrh8cA==",
   "success": true,
   "projectFilePath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Infra/Manager.Infra.csproj",
   "expectedPackageFiles": [

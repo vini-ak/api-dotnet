@@ -53,16 +53,16 @@ namespace Manager.Infra.Repositories
             return users;
         }
 
-        public async Task<List<User>> SearchByCpf(string cpf)
+        public async Task<User> GetByCpf(string cpf)
         {
-            var users = await _context.Users
+            var user = await _context.Users
                                     .Where(
                                         x => x.Cpf == cpf
                                     )
                                     .AsNoTracking()
                                     .ToListAsync();
             
-            return users;
+            return user.FirstOrDefault();
         }
     }
 }
