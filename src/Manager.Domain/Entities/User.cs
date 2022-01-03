@@ -24,6 +24,8 @@ namespace Manager.Domain.Entities
             Password = password;
             Cpf = cpf;
             _errors = new List<string>();
+
+            Validate();
         }
 
         // Behaviours

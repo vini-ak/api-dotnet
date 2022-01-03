@@ -4,6 +4,58 @@
     "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj": {}
   },
   "projects": {
+    "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj",
+        "projectName": "Manager.Core",
+        "projectPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj",
+        "packagesPath": "/home/vinicius/.nuget/packages/",
+        "outputPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vinicius/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +77,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj": {
+                "projectPath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Core/Manager.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

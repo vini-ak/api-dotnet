@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BEaQY2NwnWU1SWA3YsTY4XZaklqgpRlNX5LQIYTzJlcCnlnL/Z/vX8ho0jeolITvGtu2p3VpdPPX80XukvyVoQ==",
+  "dgSpecHash": "sJkm+IeW8RK9ztaHOAPwDpu2KhBVmXaeAxtPs8uLE3lq3U4HTioCAB3sj+OYKjufofT4uq9sz0eWax7Ct164mg==",
   "success": true,
   "projectFilePath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Domain/Manager.Domain.csproj",
   "expectedPackageFiles": [
