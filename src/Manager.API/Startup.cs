@@ -24,6 +24,7 @@ using Microsoft.OpenApi.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Manager.API.Token;
 
 namespace Manager.API
 {
@@ -91,6 +92,7 @@ namespace Manager.API
 
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ITokenGenerator, TokenGenerator>();
 
             #endregion
 
