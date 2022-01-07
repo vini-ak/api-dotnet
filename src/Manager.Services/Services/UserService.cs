@@ -15,6 +15,12 @@ namespace Manager.Services.Services
         private readonly IMapper _mapper;
         private readonly IUserRepository _userRepository;
 
+        public UserService(IMapper mapper, IUserRepository userRepository)
+        {
+            _mapper = mapper;
+            _userRepository = userRepository;
+        }
+
         public async Task<UserDTO> Create(UserDTO userDTO)
         {
             var userExists = await _userRepository.GetByEmail(userDTO.Email);

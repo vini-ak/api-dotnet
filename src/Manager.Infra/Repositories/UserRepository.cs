@@ -19,7 +19,7 @@ namespace Manager.Infra.Repositories
 
         public async Task<User> GetByEmail(string email)
         {
-            var user = await _context.Users
+            var user = await _context.User
                                     .Where(
                                         x => x.Email.ToLower() == email.ToLower()
                                     )
@@ -31,7 +31,7 @@ namespace Manager.Infra.Repositories
         
         public async Task<List<User>> SearchByEmail(string email)
         {
-            var users = await _context.Users
+            var users = await _context.User
                                     .Where(
                                         x => x.Email.ToLower().Contains(email.ToLower())
                                     )
@@ -43,7 +43,7 @@ namespace Manager.Infra.Repositories
 
         public async Task<List<User>> SearchByName(string name)
         {
-            var users = await _context.Users
+            var users = await _context.User
                                     .Where(
                                         x => x.Name.ToLower().Contains(name.ToLower())
                                     )
@@ -55,7 +55,7 @@ namespace Manager.Infra.Repositories
 
         public async Task<User> GetByCpf(string cpf)
         {
-            var user = await _context.Users
+            var user = await _context.User
                                     .Where(
                                         x => x.Cpf == cpf
                                     )

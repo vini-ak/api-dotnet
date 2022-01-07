@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TCZYIUhlD1svv2uH6mqehNDsxPFc+WBBvAqw9kSYjtUCZAKlUB6SN7t6XL73+J0+UGnZkbci+U5yF5OfL6ZoBA==",
+  "dgSpecHash": "BHQmhewgLTnKKyIBm1K9Npz5utmkubMANfS0ybA5V/arRzKxeXQCOWWqrUm4rzVlJGWQF5A1sdzvItvu7EhJRw==",
   "success": true,
   "projectFilePath": "/home/vinicius/Projetos/api-dotnet/src/Manager.Services/Manager.Services.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,7 @@
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore/5.0.11/microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.11/microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.11/microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",
-    "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.10/microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
+    "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.11/microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.memory/5.0.0/microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
