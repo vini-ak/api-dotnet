@@ -9,10 +9,17 @@
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Manager.API.pdb
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/AutoMapper.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/FluentValidation.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/MySqlConnector.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
@@ -20,6 +27,7 @@
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Manager.Core.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Manager.Domain.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Manager.Infra.dll
