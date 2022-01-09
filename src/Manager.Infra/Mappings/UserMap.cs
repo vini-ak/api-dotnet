@@ -30,9 +30,9 @@ namespace Manager.Infra.Mappings
 
             builder.Property(x => x.Password)
                 .IsRequired()
-                .HasMaxLength(20)
+                .HasMaxLength(100)
                 .HasColumnName("Password")
-                .HasColumnType("VARCHAR(20)");
+                .HasColumnType("VARCHAR(100)");
 
             builder.Property(x => x.Cpf)
                 .IsRequired()

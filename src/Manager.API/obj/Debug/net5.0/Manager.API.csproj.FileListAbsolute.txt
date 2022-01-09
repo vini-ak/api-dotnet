@@ -8,7 +8,12 @@
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/ref/Manager.API.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Manager.API.pdb
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/AutoMapper.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/BCrypt.Net-Next.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/EscNet.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/FluentValidation.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Isopoh.Cryptography.Argon2.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Isopoh.Cryptography.Blake2b.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Isopoh.Cryptography.SecureArray.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
@@ -23,6 +28,7 @@
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Microsoft.OpenApi.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/MySqlConnector.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Scrypt.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /home/vinicius/Projetos/api-dotnet/src/Manager.API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace Manager.Services.DTO
 {  
    public class UserDTO
@@ -7,8 +9,10 @@ namespace Manager.Services.DTO
 
         public string Email { get; set; }
 
+        [JsonIgnore]
         public string Password { get; set; }
-
+        
+        [JsonIgnore]
         public string Cpf { get; set; }
 
         public UserDTO()

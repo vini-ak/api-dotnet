@@ -56,8 +56,8 @@ namespace Manager.Domain.Validators
                 .MinimumLength(8)
                 .WithMessage("A senha deve ter no mínimo 8 caracteres")
 
-                .MaximumLength(20)
-                .WithMessage("A senha deve ter no máximo 20 caracteres");
+                .MaximumLength(100)
+                .WithMessage("A senha deve ter no máximo 100 caracteres");
 
             // CPF validation
             RuleFor(x => x.Cpf)
